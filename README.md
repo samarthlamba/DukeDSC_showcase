@@ -1,3 +1,2 @@
 # DukeDSC_showcase
-#merge conflict
-merge conflict
+This is DSC Duke 
